@@ -6,7 +6,7 @@ public class IndexClass {
         Sum of two integers.
          */
     int a = 24;
-    int b = a;
+    int b = 3;
     int sum = a + b;
 
     System.out.println(sum);
