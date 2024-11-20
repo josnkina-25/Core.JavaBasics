@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaStringMethods/JavaStringMethods.iml" filepath="$PROJECT_DIR$/JavaStringMethods/JavaStringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperatorsAndNumbers/OperatorsAndNumbers.iml" filepath="$PROJECT_DIR$/OperatorsAndNumbers/OperatorsAndNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadingStringFromConsole/ReadingStringFromConsole.iml" filepath="$PROJECT_DIR$/ReadingStringFromConsole/ReadingStringFromConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
     </modules>
   </component>
 </project>
