@@ -10,5 +10,7 @@ public class ReadingStringFromConsole {
         System.out.println("s2 is " + s2);
         System.out.println("s3 is " + s3);
 
+
+
     }
 }

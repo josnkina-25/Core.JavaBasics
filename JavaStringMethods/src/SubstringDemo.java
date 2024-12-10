@@ -4,5 +4,6 @@ public class SubstringDemo {
 
         // extract substring from index 0 to 3
         System.out.println(str1.substring(0, 4));
+        System.out.println(str1.substring(0, 11));
     }
 }

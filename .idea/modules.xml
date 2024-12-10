@@ -3,8 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoreJavaBasics.iml" filepath="$PROJECT_DIR$/CoreJavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GLAB 303.10.1/GLAB 303.10.1.iml" filepath="$PROJECT_DIR$/GLAB 303.10.1/GLAB 303.10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GLAB 303.10.2/GLAB 303.10.2.iml" filepath="$PROJECT_DIR$/GLAB 303.10.2/GLAB 303.10.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GLAB 303.11.1/GLAB 303.11.1.iml" filepath="$PROJECT_DIR$/GLAB 303.11.1/GLAB 303.11.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GLAB 303.6.1/GLAB 303.6.1.iml" filepath="$PROJECT_DIR$/GLAB 303.6.1/GLAB 303.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GLSB 303.9.1/GLSB 303.9.1.iml" filepath="$PROJECT_DIR$/GLSB 303.9.1/GLSB 303.9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guided LAB 303.5.1 for loop/Guided LAB 303.5.1 for loop.iml" filepath="$PROJECT_DIR$/Guided LAB 303.5.1 for loop/Guided LAB 303.5.1 for loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guided LAB 303.5.2 While Loop/Guided LAB 303.5.2 While Loop.iml" filepath="$PROJECT_DIR$/Guided LAB 303.5.2 While Loop/Guided LAB 303.5.2 While Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStringMethods/JavaStringMethods.iml" filepath="$PROJECT_DIR$/JavaStringMethods/JavaStringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperatorsAndNumbers/OperatorsAndNumbers.iml" filepath="$PROJECT_DIR$/OperatorsAndNumbers/OperatorsAndNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA 303.10.1/PA 303.10.1.iml" filepath="$PROJECT_DIR$/PA 303.10.1/PA 303.10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeAssignment 303.4.1/PracticeAssignment 303.4.1.iml" filepath="$PROJECT_DIR$/PracticeAssignment 303.4.1/PracticeAssignment 303.4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeAssignment 303.7.1/PracticeAssignment 303.7.1.iml" filepath="$PROJECT_DIR$/PracticeAssignment 303.7.1/PracticeAssignment 303.7.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadingStringFromConsole/ReadingStringFromConsole.iml" filepath="$PROJECT_DIR$/ReadingStringFromConsole/ReadingStringFromConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
     </modules>
